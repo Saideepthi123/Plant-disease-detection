@@ -72,7 +72,9 @@ Command to run the app
 ## Demo
 
 - About
+
 	![1](https://user-images.githubusercontent.com/52497119/118314433-c2ab2680-b511-11eb-9a79-e9b48df75692.PNG)
 	
 - Disease Predection
+
 	![2](https://user-images.githubusercontent.com/52497119/118314692-1ae22880-b512-11eb-9855-25e81e171981.PNG)
