@@ -42,3 +42,25 @@ Trained to identify 5 classes for **Disease Detection** and 24 classes for **Dis
 			   - Grape___healthy
 			   - Grape___Leaf_blight_Isariopsis_Leaf_Spot 
 ---
+## Cloning the project  
+* Run command `git clone "https://github.com/Saideepthi123/Plant-disease-detection.git"` and change into the project folder
+* Create a virtual environment `env` in the repository (use virtualenv, etc)
+*  Activate virtual environment
+* Install the requirements
+
+
+To create virtual environment and install requirements run following commands
+```shell script
+virtualenv env
+```
+
+To activate the environment use following commands:
+Window: 
+```shell script
+.\env\Scripts\activate
+```
+Ubuntu/Linux
+```shell script
+source env/bin/activate
+```
+pip install -r requirements.txt
