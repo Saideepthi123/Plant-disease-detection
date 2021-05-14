@@ -6,6 +6,7 @@ An application that for farmers to detect the type of plant or crops, detect any
 ## Model
 
 Trained to identify 5 classes for **Disease Detection** and 24 classes for **Disease Classification**
+Dataset can be downloaded form [kaggle](https://www.kaggle.com/abdallahalidev/plantvillage-dataset)
 
            - Disease Classification Classes
 
@@ -73,7 +74,7 @@ Command to run the app
 
 - About
 
-	![1](https://user-images.githubusercontent.com/52497119/118314433-c2ab2680-b511-11eb-9a79-e9b48df75692.PNG)
+	![image](https://user-images.githubusercontent.com/52497119/118315341-0a7e7d80-b513-11eb-8565-24da0c206fdb.png)
 	
 - Disease Predection
 
