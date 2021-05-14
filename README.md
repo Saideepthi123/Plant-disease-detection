@@ -64,3 +64,6 @@ Ubuntu/Linux
 source env/bin/activate
 ```
 pip install -r requirements.txt
+---
+Command to run the app
+ -streamlit run app.py
