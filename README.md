@@ -70,4 +70,6 @@ Command to run the app
  - streamlit run app.py
 
 ## Demo
-![alt text](![1](https://user-images.githubusercontent.com/52497119/118314433-c2ab2680-b511-11eb-9a79-e9b48df75692.PNG)  "About")
+
+- About
+	![1](https://user-images.githubusercontent.com/52497119/118314433-c2ab2680-b511-11eb-9a79-e9b48df75692.PNG)
