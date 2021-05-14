@@ -77,4 +77,4 @@ Command to run the app
 	
 - Disease Predection
 
-	![2](https://user-images.githubusercontent.com/52497119/118314692-1ae22880-b512-11eb-9855-25e81e171981.PNG)
+	![image](https://user-images.githubusercontent.com/52497119/118315208-da36df00-b512-11eb-8b3a-4982fe2b3935.png)
