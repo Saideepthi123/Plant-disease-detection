@@ -86,7 +86,7 @@ Command to run the app
 		
 	- Image Detected
 	  	 
-	        https://user-images.githubusercontent.com/52497119/119301434-1dfeb680-bc80-11eb-99a0-62026fe4ee49.PNG
+	        https://github.com/Saideepthi123/Plant-disease-detection/issues/1#issue-899272574
 		
 - Disease Classification
 
