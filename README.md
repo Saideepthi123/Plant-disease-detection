@@ -98,7 +98,17 @@ Command to run the app
 	
 		![6](https://user-images.githubusercontent.com/52497119/118316149-1585dd80-b514-11eb-8c4b-8c9627d44e93.PNG)
 
--Treatement Page
+- Treatement Page
 
-![7](https://user-images.githubusercontent.com/52497119/118316232-33534280-b514-11eb-8a71-3922c7e6267e.PNG)
+	![7](https://user-images.githubusercontent.com/52497119/118316232-33534280-b514-11eb-8a71-3922c7e6267e.PNG)
+	
+## Required Libraries
+- opencv-contrib-python-headless
+- tensorflow-cpu
+- streamlit
+- numpy
+- pandas
+- pillow
+- keras
+- matplotlib
 			
