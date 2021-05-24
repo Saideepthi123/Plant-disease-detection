@@ -86,7 +86,7 @@ Command to run the app
 		
 	- Image Detected
 	  	 
-	        ![4](https://user-images.githubusercontent.com/52497119/118316358-5b42a600-b514-11eb-9e56-aa0ab3ce1d30.PNG)
+	        ![image](https://user-images.githubusercontent.com/52497119/119298089-f3a9fa80-bc79-11eb-9ed3-9af0a3891468.png)
 		
 - Disease Classification
 
